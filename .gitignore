@@ -1,0 +1,24 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Built files
+dist/
+build/
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE specific
+.vscode/
+.idea/
+
+# OS Specific files
+*.DS_Store
